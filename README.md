@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Creative Bakery Landing Page
+1. _Description:_
+   This landing page is dedicated to Creative Bakery - the bakery, where a world of exquisite baked goods awaits. The artistry of the bakers' creations showcases a dedication to craftsmanship and flavor that defines Creative Bakery.
+2. _Technologies:_
+   - HTML/CSS
+   - FlexBox
+   - SASS
+   - Grids
+3. _Demo link:_ https://anna-akhalmosulishvili.github.io/CreativeBakery-landing/
+4. _GitHub link:_ https://github.com/anna-akhalmosulishvili/CreativeBakery-landing
