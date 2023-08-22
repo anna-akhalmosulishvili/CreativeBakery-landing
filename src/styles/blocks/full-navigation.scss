@@ -76,19 +76,21 @@
     align-items: center;
     gap: 8px;
 
+    padding: 4px 0 0;
+    border-bottom: 2px solid transparent;
+
     transition: all 0.3s;
 
     &:hover {
       cursor: pointer;
       color: $accent-orange;
 
-      padding: 4px 0 0;
-      border-bottom: 2px solid $accent-orange;
+      border-bottom-color: $accent-orange;
     }
 
     &:focus {
       color: $dark-orange;
-      border-bottom: 2px solid $dark-orange;
+      border-bottom-color:  $dark-orange;
     }
 
     &:focus > .icon--phone {
